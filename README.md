@@ -1,2 +1,2 @@
 # applied_analytics_education
-Course from VK (Mail.ru Group)
+Course of VK (Mail.ru Group)
