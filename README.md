@@ -1,2 +1,2 @@
-# -pplied_-nalytics_education
+# applied_analytics_education
 Course from VK (Mail.ru Group)
